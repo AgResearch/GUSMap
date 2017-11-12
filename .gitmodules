@@ -1,0 +1,3 @@
+[submodule "GUSMap"]
+	path = GUSMap
+	url = https://github.com/tpbilton/GUSMap.git
